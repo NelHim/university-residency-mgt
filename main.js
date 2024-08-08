@@ -1,7 +1,7 @@
-import DormRoom from './models/DormRoom.js';
-import Apartment from './models/Apartment.js';
-import Student from './models/Student.js';
-import MaintenanceRequest from './models/MaintenanceRequest.js';
+import DormRoom from './classes/DormRoom.js';
+import Apartment from './classes/Apartment.js';
+import Student from './classes/Student.js';
+import MaintenanceRequest from './classes/MaintenanceRequest.js';
 
 const dorm = new DormRoom("Gerald's Residence", 'Kigali, AZAM', 120);
 const apartment = new Apartment(102, 'KG 135 st', 3);
