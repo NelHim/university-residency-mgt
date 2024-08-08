@@ -1,0 +1,27 @@
+{
+  "name": "uni-res-management",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "University Residence Management",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moussa-Kalam/uni-res-management.git"
+  },
+  "keywords": [
+    "OOP",
+    "JavaScript"
+  ],
+  "author": "Moussa-Kalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moussa-Kalam/uni-res-management/issues"
+  },
+  "homepage": "https://github.com/Moussa-Kalam/uni-res-management#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
